@@ -8,7 +8,7 @@ info:
   title: Swagger Polyglot PoC
   description: <script>alert(1)</script>
 paths:
-  "/a":
+  /a:
     get:
       responses:
         200:
